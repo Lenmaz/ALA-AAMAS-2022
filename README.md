@@ -1,7 +1,6 @@
 # ALA-2022
 
-Code for the IJCAI2022 Submisssion 1366:
-'Designing Ethical Environments with Theoretical Guarantees for Multi-Agent Systems (Supplementary Material'
+Code for the ALA-AAMAS 2022 workshop paper "Building Multi-Agent Environments with Theoretical Guarantees on the Learning of Ethical Policies".
 
 The files implement in Python3 our Multi-Agent Ethical Environment Designing Algorithm, a novel algorithm from our paper.
 
